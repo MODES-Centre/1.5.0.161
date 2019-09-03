@@ -1,0 +1,14 @@
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.ConnectionForm_.resources
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.MainWindow.resources
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.Properties.Resources.resources
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.GenerateResource.Cache
+E:\Projects\ModesCentre\Integration\Executable\ApiExternalTestApp.exe.config
+E:\Projects\ModesCentre\Integration\Executable\ApiExternalTestApp.exe
+E:\Projects\ModesCentre\Integration\Executable\ApiExternalTestApp.pdb
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.exe
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.pdb
+E:\Projects\ModesCentre\Integration\Executable\ApiExternalTestApp.exe.CodeAnalysisLog.xml
+E:\Projects\ModesCentre\Integration\Executable\ApiExternalTestApp.exe.lastcodeanalysissucceeded
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csprojAssemblyReference.cache
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.CoreCompileInputs.cache
+E:\Projects\ModesCentre\Integration\Core\Sources\ApiExternalTestApp\ApiExternalTestApp\obj\x86\Debug\ApiExternalTestApp.csproj.CopyComplete
